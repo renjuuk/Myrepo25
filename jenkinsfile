@@ -1,4 +1,3 @@
-[200~
 pipeline {
     agent any
 
