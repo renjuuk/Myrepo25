@@ -28,6 +28,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iammithran/weekendimage:latest
+          image: renjuuk/myproject:latest
           imagePullPolicy: Always
 
